@@ -1,0 +1,33 @@
+.login-container {
+  background-color: #277575;
+  padding: 30px;
+  border-radius: 16px;
+  width: 300px;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.input {
+  padding: 10px;
+  border: none;
+  border-radius: 8px;
+  background-color: #bcc2ca;
+  color: white;
+}
+
+.options {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.9rem;
+}
+
+.login-btn {
+  padding: 10px;
+  background-color: #9fbbf7;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  cursor: pointer;
+}

@@ -1,0 +1,29 @@
+import './App.css';
+
+function App() {
+  return (
+    <div className="container">
+      <header>
+        <h1>Добро пожаловать на мой сайт</h1>
+        <nav>
+          <a href="#">Главная</a>
+          <a href="#">О нас</a>
+          <a href="#">Контакты</a>
+        </nav>
+      </header>
+
+      <main>
+        <section>
+          <h2>О проекте</h2>
+          <p>Это главная страница простого сайта на React. Здесь можно разместить любую информацию.</p>
+        </section>
+      </main>
+
+      <footer>
+        <p>© 2025 Все права защищены</p>
+      </footer>
+    </div>
+  );
+}
+
+export default App;
