@@ -16,6 +16,9 @@ function App() {
         justifyContent: 'flex-start', 
         alignItems: 'center',
         paddingLeft: '5vw'
+
+
+        
       }}
     >
         <div
