@@ -25,11 +25,11 @@ function App() {
           style={{
               position: 'absolute',
               left: '27vw',
-              top: '37 %'
+              top: '37%'
           }}
-          >
+      >
       <LoginForm />
-         </div>
+         </div> 
       </div>
      )
 }
